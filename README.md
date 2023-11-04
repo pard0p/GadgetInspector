@@ -1,5 +1,5 @@
 # CallstackSpoofing_Detector
-Callstack Spoof based on gadjets detector.
+Gadget-based Callstack Spoofing Detector.
 
 ## How to use it?
 
