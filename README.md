@@ -19,6 +19,11 @@ Example:
 callstackspoof_detector.exe -p 1000 -o out.txt
 ```
 
+All PIDs: 
+```bash
+callstackspoof_detector.exe -p 1000 -o out.txt
+```
+
 ## To compile
 ```bash
 g++ .\callstackspoof_detector.cpp -o .\callstackspoof_detector.exe -ldbghelp
