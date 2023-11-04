@@ -1,4 +1,4 @@
-# CallstackSpoofing_Detector
+# CallstackSpoofingDetector
 Gadget-based Callstack Spoofing Detector.
 
 Tested on:
