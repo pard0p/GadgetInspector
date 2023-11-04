@@ -21,7 +21,7 @@ callstackspoof_detector.exe -p 1000 -o out.txt
 
 All PIDs: 
 ```bash
-callstackspoof_detector.exe -p 1000 -o out.txt
+callstackspoof_detector.exe -o out.txt
 ```
 
 ## To compile
