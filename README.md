@@ -1,6 +1,12 @@
 # CallstackSpoofing_Detector
 Gadget-based Callstack Spoofing Detector.
 
+Tested on:
+https://github.com/pard0p/CallstackSpoofingPOC
+
+It should detect:
+https://github.com/klezVirus/SilentMoonwalk
+
 ## How to use it?
 
 ```bash
