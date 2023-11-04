@@ -17,3 +17,6 @@ callstackspoof_detector.exe -p 1000 -o out.txt
 ```bash
 g++ .\callstackspoof_detector.cpp -o .\callstackspoof_detector.exe -ldbghelp
 ```
+
+## WARNING
+This is an UNFINISHED proof of concept. Certain situations can cause false positives.
