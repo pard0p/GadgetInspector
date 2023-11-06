@@ -1,10 +1,11 @@
-# CallstackSpoofingDetector
-Gadget-based Callstack Spoofing Detector.
+# GadgetInspector - Gadget-based Callstack Spoofing Detector
 
-Tested on:
+![image](https://github.com/pard0p/GadgetInspector/assets/79936108/678cc7d1-15ff-42c6-a911-fccba1d10b44)
+
+## Tested on:
 https://github.com/pard0p/CallstackSpoofingPOC
 
-It should detect:
+It should also detect:
 https://github.com/klezVirus/SilentMoonwalk
 
 ## How to use it?
