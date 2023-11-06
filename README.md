@@ -1,4 +1,6 @@
-# GadgetInspector - Gadget-based Callstack Spoofing Detector
+# GadgetInspector
+
+Gadget-based Callstack Spoofing Detector
 
 ![image](https://github.com/pard0p/GadgetInspector/assets/79936108/678cc7d1-15ff-42c6-a911-fccba1d10b44)
 
